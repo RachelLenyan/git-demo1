@@ -5,4 +5,8 @@ hello git hello dev01
 master
 hot
 add a line
+<<<<<<< HEAD
 by me
+=======
+i am master
+>>>>>>> b381dd1 (update master hello.txt)
