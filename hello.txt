@@ -6,7 +6,11 @@ master
 hot
 add a line
 <<<<<<< HEAD
+<<<<<<< HEAD
 by me
 =======
 i am master
 >>>>>>> b381dd1 (update master hello.txt)
+=======
+i am dev01
+>>>>>>> 6e6d318 (update dev01 hello.txt)
